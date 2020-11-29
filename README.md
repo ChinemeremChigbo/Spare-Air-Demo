@@ -1,3 +1,4 @@
 # Spare-Air-Demo
-Hey Amanda, these are all the files I have been using for my project.
-If you use Unity, you should be able to open the project file, and see all the work I've done so far!
+Some of the demo files I have been using for my project.
+I have made a lot more progress since this version, but this should give you a little taste of what's to come.
+
